@@ -37,11 +37,14 @@ body {
   background-color: #FFB37A;
 }
 
+div {
+  margin: auto;
+}
+
 #cube1 {
-  position: absolute;
-  left: 50%;
-  top: 50%;
-  transform: translate(-50%, -50%);
+  position: fixed;
+  right: 0;
+  bottom: 0;
   width: 400px;
   height: 400px;
   background-color: #ffed59;
@@ -104,7 +107,9 @@ body {
 }
 
 #cube9 {
-  position: absolute;
+  position: fixed;
+  left: 0;
+  top: 0;
   margin: 10px;
   width: 240px;
   height: 240px;
@@ -112,7 +117,6 @@ body {
 }
 
 #cube10 {
-  position: absolute;
   margin: 10px;
   width: 220px;
   height: 220px;
