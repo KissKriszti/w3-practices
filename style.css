@@ -1,0 +1,120 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: none;
+  box-sizing: border-box;
+  background: transparent;
+  font-family: inherit;
+}
+a {
+  text-decoration: none;
+}
+a img {
+  border: none;
+}
+
+button,
+a {
+  cursor: pointer;
+  color: inherit;
+}
+
+textarea {
+  resize: none;
+}
+
+button,
+textarea,
+select {
+  appearance: none !important;
+  border-radius: 0;
+}
+
+/* CSS Reset Ends */
+
+body {
+  background-color: #FFB37A;
+}
+
+#cube1 {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  width: 400px;
+  height: 400px;
+  background-color: #ffed59;
+}
+
+#cube2 {
+  position: absolute;
+  margin: 10px;
+  width: 380px;
+  height: 380px;
+  background-color: #827B17;
+}
+
+#cube3 {
+  position: absolute;
+  margin: 10px;
+  width: 360px;
+  height: 360px;
+  background-color: #CF735F;
+}
+
+#cube4 {
+  position: absolute;
+  margin: 10px;
+  width: 340px;
+  height: 340px;
+  background-color: #6E3AE8;
+}
+
+#cube5 {
+  position: absolute;
+  margin: 10px;
+  width: 320px;
+  height: 320px;
+  background-color: #C43AE8;
+}
+
+#cube6 {
+  position: absolute;
+  margin: 10px;
+  width: 300px;
+  height: 300px;
+  background-color: #E89CE1;
+}
+
+#cube7 {
+  position: absolute;
+  margin: 10px;
+  width: 280px;
+  height: 280px;
+  background-color: #73E89B;
+}
+
+#cube8 {
+  position: absolute;
+  margin: 10px;
+  width: 260px;
+  height: 260px;
+  background-color: #588217;
+}
+
+#cube9 {
+  position: absolute;
+  margin: 10px;
+  width: 240px;
+  height: 240px;
+  background-color: #CE8217;
+}
+
+#cube10 {
+  position: absolute;
+  margin: 10px;
+  width: 220px;
+  height: 220px;
+  background-color: #FFBA59;
+}
