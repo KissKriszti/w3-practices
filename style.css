@@ -89,7 +89,7 @@ section.backgroundHolder {
   /* border: 10px solid rgba(15,80,95, 0.5); */
   background-clip: border-box;
   background-image: url("https://wallpapercave.com/wp/wp2100820.jpg");
-  background-size: 2000px 1400px;
+  background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
   /* background-color: black; */
